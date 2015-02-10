@@ -1,32 +1,32 @@
 /* No comment provided by engineer. */
-"%d days ago" = "Hace %d días";
+"%d days ago" = "%d días";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "Hace %d horas";
+"%d hours ago" = "%d hrs";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "Hace %d minutos";
+"%d minutes ago" = "%d min";
 
 /* No comment provided by engineer. */
-"%d months ago" = "Hace %d meses";
+"%d months ago" = "%d meses";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "Hace %d segundos";
+"%d seconds ago" = "%d seg";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "Hace %d semanas";
+"%d weeks ago" = "%d sem";
 
 /* No comment provided by engineer. */
-"%d years ago" = "Hace %d años";
+"%d years ago" = "%d años";
 
 /* No comment provided by engineer. */
-"A minute ago" = "Hace un minuto";
+"A minute ago" = "1 min";
 
 /* No comment provided by engineer. */
-"An hour ago" = "Hace una hora";
+"An hour ago" = "1 hora";
 
 /* No comment provided by engineer. */
-"Just now" = "Ahora mismo";
+"Just now" = "Ahora";
 
 /* No comment provided by engineer. */
 "Last month" = "El mes pasado";
@@ -41,16 +41,16 @@
 "Yesterday" = "Ayer";
 
 /* No comment provided by engineer. */
-"1 year ago" = "Hace un año";
+"1 year ago" = "1 año";
 
 /* No comment provided by engineer. */
-"1 month ago" = "Hace un mes";
+"1 month ago" = "1 mes";
 
 /* No comment provided by engineer. */
-"1 week ago" = "Hace una semana";
+"1 week ago" = "1 sem";
 
 /* No comment provided by engineer. */
-"1 day ago" = "Hace un día";
+"1 day ago" = "1 día";
 
 /* No comment provided by engineer. */
 "This morning" = "Esta mañana";
